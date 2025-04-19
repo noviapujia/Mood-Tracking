@@ -92,8 +92,10 @@
         <li><strong>Daily Notes:</strong> Short written reflections capturing subjective interpretations of emotional triggers or notable events from the day.</li>
     </ul>
 
+    <div class="image-with-caption">
     <img src="mood_rate.jpg" alt="Mood Scale Reference Table">
     <p class="caption">Mood Scale Reference Table</p>
+</div>
 
     <h3>Visualisation Tools</h3>
     <p>To interpret and present the dataset meaningfully, I adopted a multi-platform visualisation strategy that combined quantitative clarity with qualitative depth:</p>
@@ -160,8 +162,10 @@
     <h2>Weather and Mood: A Tropical Mind in a Cloudy Land</h2>
     <p>Coming from a tropical country, I initially thought I would easily adapt to the European weather—and, in many practical ways, I did in Glasgow. I was not particularly sensitive to the cold and did not feel the need for heavy thermal layers like many of my peers. However, my mood data told a more nuanced story, especially when it came to sunlight. The emotional impact of weather was not something I had fully anticipated. While I could handle the chill, the lack of consistent sunlight had a deeper effect on my mood than I expected.</p>
 
+    <div class="image-with-caption">
     <img src="Weather_(1).png" alt="Weather and Mood Correlation Table">
     <p class="caption">Weather Table: Mood Correlation</p>
+</div>
 
     <p>On 30 January, I experienced my first sunlight in weeks, and it made a noticeable difference. While I never complained about the cloudy or rainy days, I had not fully realized how much I missed sunlight until I felt it again. The warmth was familiar, almost like home, and even though the day was not particularly eventful, the sun lifted my spirits. By 15 March, the warmest day I had experienced in Europe so far, the sunshine brought a new wave of energy. It was not just about the weather; the sunlight reminded me of the changing seasons and opportunities in my life, underscoring how deeply weather can impact emotional well-being in ways I had not anticipated since leaving Indonesia last September.</p>
 
