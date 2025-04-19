@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>"Am I Really Okay?": A Data-Driven Challenge to My Assumptions About Homesickness</title>
-    <style>
+    <style> 
         body {
             font-family: 'Helvetica', 'Arial', sans-serif;
             line-height: 1.6;
